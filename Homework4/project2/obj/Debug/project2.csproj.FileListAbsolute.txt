@@ -1,0 +1,6 @@
+C:\Users\发功阿你\Desktop\Homework4\project2\bin\Debug\project2.exe.config
+C:\Users\发功阿你\Desktop\Homework4\project2\bin\Debug\project2.exe
+C:\Users\发功阿你\Desktop\Homework4\project2\bin\Debug\project2.pdb
+C:\Users\发功阿你\Desktop\Homework4\project2\obj\Debug\project2.csproj.CoreCompileInputs.cache
+C:\Users\发功阿你\Desktop\Homework4\project2\obj\Debug\project2.exe
+C:\Users\发功阿你\Desktop\Homework4\project2\obj\Debug\project2.pdb
